@@ -1,0 +1,40 @@
+.BSS_postbox h3 
+	{
+	margin: 				0px; 
+	padding: 				10px;
+	background-color:		#CCCCCC;
+	}
+
+.BSS_postbox
+	{
+	border: 				1px solid #CCCCCC; 
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	margin-bottom:			20px;
+	}
+
+.postbox_inner 
+	{
+	padding: 				10px;
+	}
+	
+.button-primary
+	{
+	margin-top: 			10px;
+	}
+	
+.BSS_label
+	{
+	clear: 					left;
+	float: 					left;
+	width: 					250px;
+	}
+	
+.BSS_setup_but
+	{
+	padding: 				15px;
+	text-align:				center;
+	font-size: 				1.3em;		
+	}
+

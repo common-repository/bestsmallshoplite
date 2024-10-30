@@ -1,0 +1,106 @@
+.BSS_shop 
+	{
+	margin-top: 			30px;
+	border: 				1px solid #EEEEEE; 
+	padding: 				5px;
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	color:					#333333;
+	}
+
+.BSS_shop h2
+	{
+	margin: 				auto;
+	margin-bottom: 			10px;
+	background-color:		#EEEEEE;
+	padding: 				5px;
+	-webit-border-radius: 	3px;
+	-moz-border-radius: 	3px;
+	border-radius: 			3px;
+	color:					#333333;
+	font-size: 				1.3em;
+	}
+		
+.BSS_shop table 
+	{
+	font-size:				0.9em;
+	width: 					100%;
+	border: 				1px solid #EEEEEE; 
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	color:					#333333;
+	}
+	
+.BSS_shop th
+	{
+	background-color:		#EEEEEE;
+	text-align: 			center;
+	border-bottom:			1px solid #CCCCCC;
+	}
+
+.BSS_shop td
+	{
+	padding: 				3px 5px 2px 5px;
+	}
+	
+.BSS_shop select, .BSS_shop input, .BSS_shop checkbox 
+	{
+	font-size:				0.9em;
+	width: 					auto;
+	padding: 				2px;
+	border: 				1px solid #CCCCCC; 
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	}
+
+.BSS_reviews
+	{
+	font-size: 				0.8em;
+	text-align:				center;
+	margin-top: 			10px;
+	}
+	
+img 
+	{
+	border: 				1px solid #EEEEEE; 
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	float: 					left; 
+	width: 					130px; 
+	margin-right: 			10px; 
+	margin-bottom: 			10px;
+	margin-top: 			5px; 
+	padding: 				5px;
+	}
+	
+.BSS_clear_left 
+	{
+	clear: 					left;
+	}
+	
+.entry
+	{
+	text-align: 			left;
+	}
+	
+input, textarea
+	{
+	border: 				1px solid #CCCCCC; 
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	padding: 				5px;
+	}
+	
+.search
+	{
+	background-color:		#EEEEEE;
+	-webit-border-radius: 	5px;
+	-moz-border-radius: 	5px;
+	border-radius: 			5px;
+	}
+	
